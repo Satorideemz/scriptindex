@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Hola mundooo</title>
+    <title>Hola mundooo, archivo de prueba</title>
   </head>
   <body>
-    <p>Aqui va un mensaje de contenido</p>
+    <h1>Aqui va un mensaje de contenido</h1>
   </body>
 </html>
